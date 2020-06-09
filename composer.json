@@ -1,5 +1,5 @@
 {
-  "name": "liam-wiltshire/laravel-model-meta",
+  "name": "hgs-so/laravel-model-meta",
   "description": "Metadata support for Eloquent",
   "license": "MIT",
   "authors": [
@@ -31,5 +31,5 @@
     "test": "phpunit",
     "cs": "php-cs-fixer fix src/ --level=psr2"
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev-master"
 }
